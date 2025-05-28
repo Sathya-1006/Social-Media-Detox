@@ -1,0 +1,14 @@
+/* src/styles/Login.css */
+
+.login-container {
+    @apply min-h-screen bg-gradient-to-r from-purple-600 to-indigo-600 flex items-center justify-center;
+  }
+  
+  .login-box {
+    @apply bg-white bg-opacity-80 p-8 rounded-lg shadow-lg max-w-md w-full;
+  }
+  
+  .login-title {
+    @apply text-3xl font-bold mb-6 text-center text-gray-900;
+  }
+  
