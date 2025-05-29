@@ -39,6 +39,38 @@ A full-stack web application designed to help users monitor and control their da
 
 ---
 
+# Images:
+## Registration page:
+
+![image](https://github.com/user-attachments/assets/bbaa245d-cd0a-435e-a500-7417284ddb82)
+
+## Login page:
+
+![image](https://github.com/user-attachments/assets/f5889950-3d67-47e0-8dbf-925098a8e7f8)
+
+## Dashboard:
+
+![image](https://github.com/user-attachments/assets/3e2a18a1-0b1d-4b54-93fc-c9aca21f8cae)
+
+## My Goals page:
+
+![image](https://github.com/user-attachments/assets/b77b71b6-ddc5-47b6-b402-4f6b9ee1ba57)
+
+## Challenges page:
+
+![image](https://github.com/user-attachments/assets/187c95fc-c346-4910-b8cd-d527a0853892)
+
+## User profile page:
+
+![image](https://github.com/user-attachments/assets/1894944a-11be-4e98-82a5-e2a7e3ccf1a2)
+
+## Uer Data page:
+
+![image](https://github.com/user-attachments/assets/b05e5052-6134-424c-9244-2ddedbb3a386)
+
+
+
+
 ## 📂 Project Structure
 
 ```bash
@@ -55,3 +87,5 @@ social-media-detox/
 │   ├── controllers/
 │   └── index.js
 └── README.md
+
+
